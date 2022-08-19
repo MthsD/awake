@@ -24,3 +24,9 @@ Solution de portail web de promotion de l'offre touristique du territoire autour
 Application mobile permettant d'explorer les randonnées du territoire. L'utilisateur a accès aux information du terrain et peut se géolocaliser sur l'itinéraire. Cette application peut fonctionner en mode deconnecté pour s'adapter aux zones sans connexions.
 
 Disponible sur Android et iOS, cette application mobile reprend une grande partie des données de Geotrek‑Rando.
+
+## Mise en place, hébergement, maintenance
+
+La solution Geotrek a été développée sous licence Open Source et son code est donc accessible gratuitement. Pour la mise en place, l'hébergement et la maintenance, n'hésitez pas à faire appel à nous à
+
+**Forfaits selon vos besoins.**
